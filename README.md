@@ -16,10 +16,11 @@ You can use placeholder text and images to complete the task or create your own 
 Remember to use proper HTML syntax and structure to ensure the page is accessible and
 optimized for search engines. Note that this task should be done using HTML and CSS only.
 <br><br><br><br>
-<h3> Task-1 </h3> 
+<h3> Task-2 </h3> 
 <br>
 You all created a Parallax webpage in task 1 now task 2 is to add flip cards in one
 of your sections simply:
+<br>
 <br>
 1. Cards should be of the general size used
 <br>
@@ -27,6 +28,7 @@ of your sections simply:
 <br>
 3. Each card should contain an image on one side and information about the
 image on the other side.
+<br>
 <br>
 You can Include HTML as well as proper CSS properties for Your task.
 <br>

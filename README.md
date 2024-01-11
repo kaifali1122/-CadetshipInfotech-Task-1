@@ -1,7 +1,7 @@
-# -CadetshipInfotech-Task-1
+# -CadetshipInfotech-
 <br>
 <br>
-<h3> Task-1 </h3> 
+<h1>TASK-1</h1>
 <br>
 Create a web page for the Parallax website. The page should include the following sections:<br><br>
 
@@ -16,7 +16,7 @@ You can use placeholder text and images to complete the task or create your own 
 Remember to use proper HTML syntax and structure to ensure the page is accessible and
 optimized for search engines. Note that this task should be done using HTML and CSS only.
 <br><br><br><br>
-<h3> Task-2 </h3> 
+<h1>TASK-2</h1>
 <br>
 You all created a Parallax webpage in task 1 now task 2 is to add flip cards in one
 of your sections simply:
@@ -31,4 +31,10 @@ image on the other side.
 <br>
 <br>
 You can Include HTML as well as proper CSS properties for Your task.
-<br>
+<br><br>
+<h1>TASK-3</h1>
+You all created a Parallax webpage in task 1 and added flip cards in task 2 now
+task 3 is simply adding another webpage to your website containing a form and a
+countdown timer. The form can be a general form, a review form of your website,
+a quiz, etc.<br>
+You can Include HTML, CSS, and JavaScript
